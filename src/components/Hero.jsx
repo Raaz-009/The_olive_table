@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import React from "react";
 import { images } from "../data/content";
 
 const BranchSVG = ({ className }) => (
