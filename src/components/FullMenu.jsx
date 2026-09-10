@@ -1,4 +1,5 @@
 import { useState } from "react";
+import React from "react";
 import { menu } from "../data/content";
 
 const tabs = [
