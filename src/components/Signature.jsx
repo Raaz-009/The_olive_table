@@ -1,5 +1,7 @@
+import React from "react";
 import { motion } from "framer-motion";
 import { signatureDishes } from "../data/content";
+
 
 export default function Signature() {
   return (
