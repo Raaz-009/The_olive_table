@@ -1,4 +1,5 @@
 import { MapPin, Phone, Mail } from "lucide-react";
+import React from "react";
 import { hours, contact } from "../data/content";
 
 export default function Location() {
