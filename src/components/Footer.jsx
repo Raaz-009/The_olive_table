@@ -1,4 +1,5 @@
 import { Leaf } from "lucide-react";
+import React from "react";
 
 const links = [
   { href: "#story", label: "Story" },
